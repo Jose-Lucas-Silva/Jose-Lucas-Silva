@@ -20,4 +20,4 @@
   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></img>
 </div><br>
 
-###Graduante do Curso de Ciências da Computação
+Graduante do Curso de Ciências da Computação
