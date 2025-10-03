@@ -5,7 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jose-lucas-silva)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jose-Lucas-Silva)
 
-![Jose Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose-Lucas-Silva&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Lucas-Silva&layout=compact)
 
 ## Tecnologias que utilizo
@@ -20,4 +19,3 @@
   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></img>
 </div><br>
 
-Graduante do Curso de Ciências da Computação
